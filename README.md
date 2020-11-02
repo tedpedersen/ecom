@@ -27,7 +27,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 #### Description:
 
-Ecom backend built 
+Ecom backend built with node, express, and sequalize.
 
 #### Useage Info:
 
